@@ -1,5 +1,5 @@
 print(100)
-print("Trinh Quoc Uy")
+print("Trịnh Quốc Uy")
 print(3.14)
 print(True)
 print(False)
