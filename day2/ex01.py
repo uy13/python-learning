@@ -1,0 +1,1 @@
+input("Nhap ten cua ban: ")
