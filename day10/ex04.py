@@ -13,4 +13,4 @@ album = {"title": "The Dark Side of the Moon",
                     "Eclipse")}
 del album["year"]
 del album["tracks"]
-print(album.get("year", []))
+print(album.get("year", "Unknown"))
