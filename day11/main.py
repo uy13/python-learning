@@ -21,8 +21,3 @@
 # print(s)
 #
 #
-
-m = int(input())
-lst_m = list(map(int, input().split()))[:m]
-
-print(*lst_m)
